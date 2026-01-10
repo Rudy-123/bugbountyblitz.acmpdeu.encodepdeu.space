@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "steganography-image",
+      "description": "An abstract image that supposedly contains a hidden flag.",
+      "imageUrl": "https://images.unsplash.com/photo-1610466896927-699424f3c86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGNvZGV8ZW58MHx8fHwxNzU5NjkwOTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract code"
+    }
+  ]
+}
