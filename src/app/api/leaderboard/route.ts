@@ -18,5 +18,5 @@ export async function GET() {
   }
 }
 
-// Enable revalidation every 10 seconds for fresh leaderboard data
-export const revalidate = 10;
+// Force dynamic to prevent build-time pre-rendering (Google Sheets may not be configured)
+export const dynamic = 'force-dynamic';
